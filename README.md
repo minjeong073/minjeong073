@@ -18,8 +18,8 @@
 <!-- 저장소 핀 -->
 
 <!-- spring project memo -->
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minjeong073&repo=SpringProject_Memo&theme=flag-india))
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minjeong073&repo=SpringProject_Memo&theme=flag-india) -->
 
 <!-- spring project donggram -->
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minjeong073&repo=SpringProject_Donggram&theme=flag-india))
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minjeong073&repo=SpringProject_Donggram&theme=flag-india) -->
 
