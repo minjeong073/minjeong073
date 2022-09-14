@@ -7,12 +7,7 @@
 <!-- <a href="https://dongguring.tistory.com"><img src="https://img.shields.io/badge/Tistory-36465D?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
 </p>
 
-<!-- github 통계 -->
-![minjeong073's github stats](https://github-readme-stats.vercel.app/api?username=minjeong073&show_icons=true&theme=flag-india)
-
-
-<!-- 언어 사용량 통계 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeong073&show_icons=true&hide_border=true&theme=flag-india)
+![minjeong073's github stats](https://github-readme-stats.vercel.app/api?username=minjeong073&hide=stars&show_icons=true&theme=flag-india)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeong073&layout=compact&show_icons=true&hide_border=true&theme=flag-india)
 
 
 <!-- 저장소 핀 -->
