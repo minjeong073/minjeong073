@@ -68,13 +68,6 @@
   </p>
   
   <br>
-  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aldehd7)](https://solved.ac/aldehd7)
-  
-  <img src="http://mazandi.herokuapp.com/api?handle=aldehd7&theme=warm"/>
-  
-  <br>
 
 
   ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=17&height=200&section=footer)
