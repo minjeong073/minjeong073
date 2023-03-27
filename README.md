@@ -1,10 +1,10 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=5&height=200&section=header&text=minjeong's%20github&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=1&height=200&section=header&text=minjeong's%20github&fontSize=50)
   
   <br>
 
-  # ☃️ 🌳 🌟 🎄 🎁 🎅 🎄 🌟 🌳 ☃️
+  # 🐥 🌱 🍡 🔅 🐰 🌼 ✨ 🎡 🧸 🍭 🕊️
   
   <br>
   <br>
@@ -70,7 +70,7 @@
   <br>
 
 
-  ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=17&height=200&section=footer)
+  ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=1&height=200&section=footer)
 
 </div>
   
